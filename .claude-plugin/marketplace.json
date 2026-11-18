@@ -1,0 +1,5 @@
+{
+  "name": "xbinh86-mods",
+  "owner": { "name": "xbinh86" },
+  "plugins": [{ "name": "master-prompt", "source": "./" }]
+}
